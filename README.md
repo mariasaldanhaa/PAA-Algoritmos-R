@@ -24,6 +24,8 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 ├── 📁 exercicios/            # Exercícios aplicados em sala de aula
 │   ├── ex01.R
 │   ├── ex02.R
+│   ├── ex03.R
+│   ├── ex04.R
 │   └── ...
 │
 └── 📄 README.md              # Documentação do projeto
