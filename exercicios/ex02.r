@@ -1,3 +1,8 @@
+# ============================================
+# EXERCÍCIO: Exponenciação com FOR
+# Calcula a potência de um número usando laço de repetição
+# ============================================
+
 num <- 2
 expo <- 3
 
