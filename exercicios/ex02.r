@@ -3,6 +3,8 @@
 # Calcula a potência de um número usando laço de repetição
 # ============================================
 
+rm(list = ls())
+
 num <- 2
 expo <- 3
 

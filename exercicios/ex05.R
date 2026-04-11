@@ -1,5 +1,5 @@
 # ============================================
-# EXERCÍCIO - Somatório
+# EXERCÍCIO - Soma de dois somatórios
 # 
 # Conceito: O somatório (Σ) é a representação matemática 
 #           de um laço de repetição (for) na programação.
@@ -17,10 +17,15 @@
 
 rm(list = ls())
 
-y <- 3 # valor final
-x <- 2 # valor inicial
-c <- 5 # constante que será somada
+Ay <- 3 ## declarando as variaveis do primeiro somatorio
+Ax <- 2
+Ac <- 5
 
-resultado <- (y - x + 1) * c
+By <- 4 ## declarando as variaveis do segundo somatorio
+Bx <- 3
+Bc <- 12
 
-print(resultado)
+resultadoA <- (Ay - Ax + 1) * Ac
+resultadoB <- (By - Bx + 1) * Bc
+
+print(resultadoA + resultadoB)
