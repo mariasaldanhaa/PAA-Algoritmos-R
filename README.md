@@ -26,6 +26,9 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 │   ├── ex02.R
 │   ├── ex03.R
 │   ├── ex04.R
+│   ├── ex05.R
+│   ├── ex06.R
+│   ├── ex07.R
 │   └── ...
 │
 └── 📄 README.md              # Documentação do projeto
@@ -40,7 +43,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 | 1 | Conceitos básicos e notação assintótica | 🔄 *Em andamento* |
 | 2 | Recursividade | ⏳ *Próximo* |
 | 3 | Algoritmos de ordenação | ⏳ *Próximo* |
-| 4 | Algoritmos de busca | ⏳ *Próximo* |
+| 4 | Algoritmos de busca | ⏳ 🔄 *Em andamento* |
 | 5 | Algoritmos em grafos | ⏳ *Próximo* |
 | 6 | Programação dinâmica | ⏳ *Próximo* |
 
