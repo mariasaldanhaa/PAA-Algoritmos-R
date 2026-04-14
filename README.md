@@ -29,6 +29,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 │   ├── ex05.R
 │   ├── ex06.R
 │   ├── ex07.R
+│   ├── ex08.R
 │   └── ...
 │
 └── 📄 README.md              # Documentação do projeto
