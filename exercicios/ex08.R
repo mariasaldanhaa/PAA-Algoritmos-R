@@ -1,6 +1,6 @@
 # ============================================
 # EXERCÍCIO: Fazer um algoritmo de busca 
-# binária de forma decrescente
+# ordenada de forma decrescente
 # ============================================
 
 rm(list = ls())
