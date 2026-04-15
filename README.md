@@ -48,7 +48,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 |---|----------|--------|
 | 1 | Conceitos básicos e notação assintótica | 🔄 *Em andamento* |
 | 2 | Recursividade | ⏳ *Próximo* |
-| 3 | Algoritmos de ordenação | ⏳ *Em andamento* |
+| 3 | Algoritmos de ordenação | 🔄 *Em andamento* |
 | 4 | Algoritmos de busca | 🔄 *Em andamento* |
 | 5 | Algoritmos em grafos | ⏳ *Próximo* |
 | 6 | Programação dinâmica | ⏳ *Próximo* |
