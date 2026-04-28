@@ -35,6 +35,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 ├── 📁 aula/              # Atividades feitas em sala de aula
 │   ├── busca_linear.R
 │   ├── busca_linear_ordenada.R
+│   ├── buscas_grafico.R
 │   └── ...
 │
 └── 📄 README.md              # Documentação do projeto
