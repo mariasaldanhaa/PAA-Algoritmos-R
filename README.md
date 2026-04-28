@@ -21,7 +21,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 ```
 📦 PAA-Algoritmos-R/
 │
-├── 📁 exercicios/            # Exercícios aplicados em sala de aula
+├── 📁 exercicios/            # Exercícios para casa
 │   ├── ex01.R
 │   ├── ex02.R
 │   ├── ex03.R
