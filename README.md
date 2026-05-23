@@ -30,6 +30,7 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 │   ├── ex06.R
 │   ├── ex07.R
 │   ├── ex08.R
+│   ├── ex09.R
 │   └── ...
 │
 ├── 📁 aula/              # Atividades feitas em sala de aula
