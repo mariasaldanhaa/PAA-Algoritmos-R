@@ -59,15 +59,20 @@ Repositório destinado aos estudos e exercícios da disciplina de **Projeto e An
 
 ---
 
-## 🚀 Como usar
-
 ### Pré-requisitos
 
-- [R](https://cran.r-project.org/) (versão 4.0 ou superior)
+- [R](https://cran.r-project.org/)
 - [RStudio](https://posit.co/download/rstudio-desktop/) (recomendado)
 
-### Executar um script
+## 🚀 Como clonar
 
+1. File
+2. New Project
+3. Version Control
+4. Git
+5. Cole a URL do repositório
 ```r
-# No R ou RStudio
-source("exercicios/ex01.R")
+https://github.com/mariasaldanhaa/PAA-Algoritmos-R.git
+```
+7. Clique em Browse e coloque em alguma pasta
+8. Create Project
