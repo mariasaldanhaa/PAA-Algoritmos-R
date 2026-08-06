@@ -3,7 +3,7 @@
 <div align="center">
   
   ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-  ![Status](https://img.shields.io/badge/Status-Estudando-yellow?style=for-the-badge)
+  ![Status](https://img.shields.io/badge/Status-Concluído-green?style=for-the-badge)
   ![Disciplina](https://img.shields.io/badge/Disciplina-3º%20Período-blue?style=for-the-badge)
   
 </div>
